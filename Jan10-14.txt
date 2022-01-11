@@ -1,0 +1,16 @@
+Stand-Up questions
+1. What did I do yesterday
+2. What will I do today
+3. What could impede me
+
+Monday
+1.  Completed RDBs freeCodeCamp course boilerplate bash course
+2.  Python Crash Course Chapters 1 and 2
+    Odin Project Introduction
+3.  No blockers anticipated    
+
+Tuesday
+1.  Completed Python Crash Course Chapter 2
+2.  Odin Project Installations
+    Business Analytics Lesson 1 Descriptive Statistics: Part 1
+3. No blockers anticipated    
