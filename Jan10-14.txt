@@ -14,3 +14,9 @@ Tuesday
 2.  Odin Project Installations
     Business Analytics Lesson 1 Descriptive Statistics: Part 1
 3. No blockers anticipated    
+
+Wednesday
+1.  Odin projects git Installations
+2.  Completed Odin Project git basics and set Up
+    Data Analytics lesson 1 part 1 Completed
+3.  No blockers    
